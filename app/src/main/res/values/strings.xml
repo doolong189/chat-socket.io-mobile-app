@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">ChatSocketIO</string>
+    <string name="nameHint">Nick Name</string>
+    <string name="chatRoomHint">Name of the chat room</string>
+    <string name="start">S T A R T</string>
+    <string name="emptyMessage">Nickname and Room Name should be filled!</string>
+    <string name="send">Send message ....</string>
+    <string name="enter_your_nickname">Enter your nickname !</string>
+    <string name="go_to_chat">Go to chat</string>
+    <string name="enter_your_room">Enter your room</string>
+    <string name="user">User</string>
 </resources>
